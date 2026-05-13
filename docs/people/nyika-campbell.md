@@ -19,15 +19,15 @@ skills:
 group_role:
 links:
   - label: Nyika Campbell's Website
-    https://nyikacampbell.wixsite.com/home
+    url: https://nyikacampbell.wixsite.com/home
   - label: Nyika Campbell's Github
-    http://github.com/nyikacampbell
+    url: http://github.com/nyikacampbell
   - label: Nyika's ORCID
-    https://orcid.org/0009-0001-6882-508X
+    url: https://orcid.org/0009-0001-6882-508X
   - label: Nyika's LinkedIn
-    in/nyika-campbell-a82125182
+    url: https://www.linkedin.com/in/nyika-campbell-a82125182
   - label: Mountian Ecology and Biogeography Lab Website
-    https://mountain-eco-lab.squarespace.com/
+    url: https://mountain-eco-lab.squarespace.com/
 ---
 
 Jane is a placeholder participant. Replace this file with a real learner profile when adapting the template for a group.
