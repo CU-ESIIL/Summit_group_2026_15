@@ -60,13 +60,12 @@ public_mode_toggle: true
 
     [Edit People in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_15/edit/main/docs/index.md?plain=1#L63){ .md-button target="_blank" rel="noopener" }
 
-| Nyika Campbell | University of Colorado Boulder | nyikacampbell@gmail.com | https://github.com/nyikacampbell | ORCID: 0009-0001-6882-508X |
-
-| Emily Nagamoto | University of Colorado Boulder | emna9376@colorado.edu | https://github.com/... | ORCID: ... |
-
-| Olivia Ross | University of California Santa Barbara | olross@ucsb.edu | https://github.com/olross4 | ORCIDID: ... |
-
-| Lauren Walker | University of Oregon | walker.laurenjean@gmail.com | https://github.com/7laurenw | ORCID: 0009-0000-3558-6169 |
+| Name | Affiliation | Email | GitHub | ORCID |
+|---|---|---|---|---|
+| Nyika Campbell | University of Colorado Boulder | nyikacampbell@gmail.com | https://github.com/nyikacampbell | 0009-0001-6882-508X |
+| Emily Nagamoto | University of Colorado Boulder | emna9376@colorado.edu | https://github.com/... | ... |
+| Olivia Ross | University of California Santa Barbara | olross@ucsb.edu | https://github.com/olross4 | ... |
+| Lauren Walker | University of Oregon | walker.laurenjean@gmail.com | https://github.com/7laurenw | 0009-0000-3558-6169 |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
