@@ -89,13 +89,27 @@ public_mode_toggle: true
 
 Our team norms:
 
-- ...
-- ...
-- ...
+- **Usage of AI in our Project**
+    - During the ESIIL Summit: broad use of LLMs with disclosure for non-coding AI use
+    - Following the ESIIL Summit: discuss use of AI for remainder of project
+
+- **How our Team Makes Decisions**
+    - Full transparency, err on the side of over communication
+    - Small decisions (e.g., edits to the Github, new data sources): communication over slack
+    - Larger decisions (e.g. sharing content, big updates): ask to meet as a group
+    - Love it, live with it, hate it - if anyone is with the third option, continue the conversation
+
+- **Authorship**
+    - When sharing tool outside of group, asking consent from team first
+    - Discuss sharing and authorship as project develops
+
+- **Communication**
+    - Contribute to a space where everyone feels comfortable to bring concerns, questions, and comments to the group early
+    - Communicate early and often!
 
 Our decision making strategy:
 
-...
+Full transparency, err on the side of over communication. Small decisions over Slack; larger decisions require meeting as a group. Use gradients of agreement — if anyone "hates it," continue the conversation.
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
