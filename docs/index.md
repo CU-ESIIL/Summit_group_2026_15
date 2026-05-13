@@ -136,15 +136,32 @@ Long term:
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
 Our working question:
-
+How can we leverage AI to more efficiently harmonize broad extent spatial datasets for use at the focal site scale?
 ...
 
 What would count as progress:
 
-...
+### Project Goals
+
+#### Short term
+- [ ] Make an agent.md file
+- [ ] Make a prompt log
+- [x] Make a data source list
+- [x] Pick 3 data sources to do tests on
+- [ ] Write an overall workflow for model selection/download
+
+#### Long term
+- GUI usable for land managers
+- Add feature that helps select data types depending on the project goals/scale/extent etc.
+- Make a light enough model to run locally to support data privacy and sovereignty
+
+### Project Phases
+- Get group members competent in coding with IDE agents and github
+- Start developing workflow for dataset pulling
+- Create UI that allows land managers to do this
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
-
+We aim to empower researchers working with field data at focal site scales to find,add, and utilize larger publically available remote-sense datasets in their workflows.
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -153,7 +170,7 @@ This matters because:
 ...
 
 People who could use this:
-
+We imagine land managers, graduate students, and ecological researchers using this tool.
 ...
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
@@ -169,10 +186,12 @@ People who could use this:
 
 Promising data sources:
 
-- [Data source 1](#): ...
-- [Data source 2](#): ...
-- [Data source 3](#): ...
-- [Data source 4](#): ...
+- **[PRISM Climate Data](https://prism.oregonstate.edu/)** (annual): High-resolution gridded climate data for the contiguous US
+    - [Annual Precipitation](https://prism.oregonstate.edu/normals/)
+    - [Annual Min Temperature](https://prism.oregonstate.edu/normals/)
+    - [Annual Max Temperature](https://prism.oregonstate.edu/normals/)
+- **[MODIS Land Surface Temperature](https://lpdaac.usgs.gov/products/mod11a1v061/)** (1 km): MOD11A1 daily land surface temperature and emissivity
+- **[USGS Digital Elevation Model (DEM)](https://www.usgs.gov/programs/national-geospatial-program/national-map)**: National Elevation Dataset; write code with Elevation, then convert in R
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
