@@ -34,7 +34,7 @@ public_mode_toggle: true
     [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_15/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
     
 
-![Team hero image](assets/hero/hero.png)
+![Team hero image](assets/hero/Nyika_Campbell_FDSS_Thumbnail.png)
 
 !!! note "How to replace the image above"
     Upload an image that represents your project and welcome people to your page. 
@@ -122,12 +122,17 @@ Full transparency, err on the side of over communication. Small decisions over S
 
 Short term:
 
-...
+- [ ] Make an agent.md file
+- [ ] Make a prompt log
+- [x] Make a data source list
+- [x] Pick 3 data sources to do tests on
+- [ ] Write an overall workflow for model selection/download
 
 Long term:
 
-- ...
-- ...
+- GUI usable for land managers
+- Add feature that helps select data types depending on the project goals/scale/extent etc.
+- Make a light enough model to run locally to support data privacy and sovereignty
 
 ![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
 
