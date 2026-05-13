@@ -22,11 +22,11 @@ links:
     https://nyikacampbell.wixsite.com/home
   - label: Nyika Campbell's Github
     http://github.com/nyikacampbell
-- label: Nyika's ORCID
+  - label: Nyika's ORCID
     https://orcid.org/0009-0001-6882-508X
-- label: Nyika's LinkedIn
+  - label: Nyika's LinkedIn
     in/nyika-campbell-a82125182
-- label: Mountian Ecology and Biogeography Lab Website
+  - label: Mountian Ecology and Biogeography Lab Website
     https://mountain-eco-lab.squarespace.com/
 ---
 
