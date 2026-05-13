@@ -3,7 +3,7 @@ title: Team Home
 public_mode_toggle: true
 ---
 
-!!! tip "How to use this page during the Summit"
+??? tip "How to use this page during the Summit"
     - This page is your team’s shared workspace and final report-out page. It captures your group’s process and thinking throughout the Summit and will be used to share your work with others. 
     
     - Use this page as your team’s working record during the Summit and your final report-out.
@@ -19,14 +19,14 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 15 Home: Make Me Your Own
+# Team 15 Home: Focal Data Site Streamer
 
-!!! note "Day 1 directions"
+??? note "Day 1 directions"
     Change the title to the name of your project.
 
     [Edit Day 1 setup in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_15/edit/main/docs/index.md?plain=1#L21){ .md-button target="_blank" rel="noopener" }
 
-!!! tip "For ESIIL staff"
+??? tip "For ESIIL staff"
     Group Number: 15
     
     Breakout Room #: Auditorium
@@ -36,7 +36,7 @@ public_mode_toggle: true
 
 ![Team hero image](assets/hero/Nyika_Campbell_FDSS_Thumbnail.png)
 
-!!! note "How to replace the image above"
+??? note "How to replace the image above"
     Upload an image that represents your project and welcome people to your page. 
     
     Upload your own image to `docs/assets/hero/` and replace the file named `hero.png`. Use a wide image if you can, then refresh the site preview to check how it looks.
@@ -49,7 +49,7 @@ public_mode_toggle: true
 
 ## People { #people .oasis-report-out-context }
 
-!!! note "Day 1 task"
+??? note "Day 1 task"
     Get to know your team: share your cards (5-7 mins). Update your team roster (2-3 min).
 
     Use the in-person name cards to guide quick introductions.
@@ -69,25 +69,7 @@ public_mode_toggle: true
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
-!!! note "Day 1 task"
-
-    Suggested Self-Facilitation Instructions:
-    
-    - Round Robin: Everyone shares 1 norm that they think will be important for their team during the Summit and perhaps following the Summit (2 min).
-
-    - After everyone has shared, make a list with as many norms as possible in GitHub (5–7 min).
-
-    - Vote on your top 3 ideas. (Each person gets 3 votes; you can use all your votes on 1 idea or spread them out) (2 min).
-
-    - In GitHub, move all team norms with votes to the top of the list.
-
-    | Gradients of agreement | 
-    |---|
-    | ![Gradients of agreement scale for Summit teams](assets/hero/norms.png) | 
-
-    [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_15/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
-
-Our team norms:
+### Our team norms:
 
 - **Usage of AI in our Project**
     - During the ESIIL Summit: broad use of LLMs with disclosure for non-coding AI use
@@ -107,32 +89,39 @@ Our team norms:
     - Contribute to a space where everyone feels comfortable to bring concerns, questions, and comments to the group early
     - Communicate early and often!
 
-Our decision making strategy:
+### Our decision making strategy:
 
 Full transparency, err on the side of over communication. Small decisions over Slack; larger decisions require meeting as a group. Use gradients of agreement — if anyone "hates it," continue the conversation.
 
+??? note "Day 1 task"
+
+    Suggested Self-Facilitation Instructions:
+    
+    - Round Robin: Everyone shares 1 norm that they think will be important for their team during the Summit and perhaps following the Summit (2 min).
+
+    - After everyone has shared, make a list with as many norms as possible in GitHub (5–7 min).
+
+    - Vote on your top 3 ideas. (Each person gets 3 votes; you can use all your votes on 1 idea or spread them out) (2 min).
+
+    - In GitHub, move all team norms with votes to the top of the list.
+
+    | Gradients of agreement | 
+    |---|
+    | ![Gradients of agreement scale for Summit teams](assets/hero/norms.png) | 
+
+    [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_15/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
+
+
+
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "Day 2 Tasks"
+??? note "Day 2 Tasks"
     Morning Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes)
 
     Afternoon Focus: try a few datasets and analyses. Keep it visual, keep it simple. Update the site to reflect what you test. 
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_15/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
-Short term:
-
-- [ ] Make an agent.md file
-- [ ] Make a prompt log
-- [x] Make a data source list
-- [x] Pick 3 data sources to do tests on
-- [ ] Write an overall workflow for model selection/download
-
-Long term:
-
-- GUI usable for land managers
-- Add feature that helps select data types depending on the project goals/scale/extent etc.
-- Make a light enough model to run locally to support data privacy and sovereignty
 
 ![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
 
@@ -180,7 +169,7 @@ We imagine land managers, graduate students, and ecological researchers using th
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "data exploration"
+??? note "data exploration"
     Provide a snapshot showing some initial data patterns. 
 
     Add 2-4 promising data sources (links +1-line notes)    
@@ -200,7 +189,7 @@ Promising data sources:
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "methods"
+??? note "methods"
     Add 2-4 methods/technologies we're testing (stats, models, viz).
 
 [View shared code](https://github.com/CU-ESIIL/Summit_group_2026_15/tree/main/code){ .md-button }
@@ -229,7 +218,7 @@ Short term:
 
 Long term: 
 
-!!! note "Day 3 Tasks"
+??? note "Day 3 Tasks"
     Sythesis: highlight 2-3 visuals that tell the story; keep text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions -> Data/Methods -> Findings -> Next 
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_15/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
