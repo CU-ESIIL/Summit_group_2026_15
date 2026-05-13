@@ -19,8 +19,8 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 15 Home: Focal Data Site Streamer
-
+# Linking Remote Sensed Metrics to Field-collected Data: The Focal Data Site Streamer
+## *A tool for field researchers to expand analysis possibilities*
 ??? note "Day 1 directions"
     Change the title to the name of your project.
 
@@ -121,8 +121,7 @@ Full transparency, err on the side of over communication. Small decisions over S
     Afternoon Focus: try a few datasets and analyses. Keep it visual, keep it simple. Update the site to reflect what you test. 
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_15/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
-
-
+...
 ![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
 
 *Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
