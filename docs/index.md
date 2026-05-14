@@ -135,7 +135,7 @@ Methods/technologies we are testing:
 ![Story visual](assets/figures/notebook_logo.png)
 
 ### Flowchart of data processing  
-![Team photo](docs/assets/team/TeamPhoto.png)
+![Team photo](assets/team/TeamPhoto.png)
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
