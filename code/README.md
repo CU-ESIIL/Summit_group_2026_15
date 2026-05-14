@@ -4,6 +4,33 @@
 
 This folder contains all code and modules for the project.
 
+## Project Organization
+
+```mermaid
+flowchart TD
+    NB["📓 notebook/\nJupyter Notebook"]
+
+    NB --> M1["📦 module_nlcd_osm/"]
+    NB --> M2["📦 module_example/"]
+    NB -.-> MN["📦 module_*/\n(future modules)"]
+
+    M1 --> F1a["nlcd_osm_harmonizer.py"]
+    M1 --> F1b["nlcd_osm_text.md"]
+    M1 --> F1c["nlcd_osm_diagram.png"]
+    M1 --> F1d["nlcd_osm_README.md"]
+
+    M2 --> F2a["example_harmonizer.py"]
+    M2 --> F2b["example_text.md"]
+    M2 --> F2c["example_diagram.png"]
+    M2 --> F2d["example_README.md"]
+
+    MT["📋 module_tracking/\nmodules.csv"]
+
+    MT -. "tracks all" .-> M1
+    MT -. "tracks all" .-> M2
+    MT -. "tracks all" .-> MN
+```
+
 ## Folders
 
 ### `notebook/`
