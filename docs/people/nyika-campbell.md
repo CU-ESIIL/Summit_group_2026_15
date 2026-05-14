@@ -2,19 +2,19 @@
 name: Nyika Campbell
 slug: nyika-campbell
 role: Learner
-affiliation: Example institution
+affiliation: University of COlorado Boulder
 pronouns:
-github:
+github: url: http://github.com/nyikacampbell
 photo:
-project_role: Data visualization and public story
+project_role: 
 summary: Jane works on turning early spatial analysis into compact visuals that help readers see what each metric supports.
 interests:
-  - Data visualization
-  - Uncertainty
-  - Public communication
+  - Plant Ecology
+  - Alpine Environments
+  - Data Science
 skills:
-  - Python
-  - Matplotlib
+  - R
+  - Field Data Collection
   - Design
 group_role:
 links:
@@ -29,5 +29,3 @@ links:
   - label: Mountian Ecology and Biogeography Lab Website
     url: https://mountain-eco-lab.squarespace.com/
 ---
-
-Jane is a placeholder participant. Replace this file with a real learner profile when adapting the template for a group.
