@@ -103,17 +103,6 @@ Promising data sources:
 - National Land Cover Database
 - Open Street Map
 
-## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
-
-Methods/technologies we are testing:
-
-| Method or technology | What we tested | Early note |
-|---|---|---|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-
 ### Challenges identified
 
 - Learning how to navigate GitHub and CyVerse (for some of us!)
