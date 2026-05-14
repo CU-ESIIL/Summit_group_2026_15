@@ -115,17 +115,7 @@ Methods/technologies we are testing:
 
 - Learning how to navigate GitHub and CyVerse (for some of us!)
 - Deciding which LLMs to use, nice ones we have access to now or ones we are more likely to use in the future
-- Running LLMs locally  
-
-### Visuals
-
-![Method or workflow visual](assets/figures/figure1.png)
-
-### Next Steps
-
-Short term: 
-
-Long term: 
+- Running LLMs locally   
 
 # Day 3
 
