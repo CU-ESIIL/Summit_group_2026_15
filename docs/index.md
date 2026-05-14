@@ -124,23 +124,10 @@ Methods/technologies we are testing:
 
 ## Team Photo { #team-photo }
 
-![Team photo](assets/team/team_1.JPG)
+![Team photo](assets/figures/IMG_8556.jpg)
 
 *Team members and collaborators who contributed to this project.*
 
-## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
-
-Headline 1 — what, where, how much
-
-We 
-
-Headline 2 — change/trend/contrast
-
-...
-
-Headline 3 — implication for practice or policy
-
-...
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
