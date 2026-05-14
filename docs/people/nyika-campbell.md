@@ -4,10 +4,10 @@ slug: nyika-campbell
 role: Learner
 affiliation: University of Colorado Boulder
 pronouns:
-github: http://github.com/nyikacampbell
+github: nyikacampbell
 photo:
 project_role: 
-summary: Jane works on turning early spatial analysis into compact visuals that help readers see what each metric supports.
+summary: Nyika works as a lab manager for the Mountain Ecology and Biogeography lab at CU Boulder. 
 interests:
   - Plant Ecology
   - Alpine Environments
