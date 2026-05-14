@@ -2,7 +2,7 @@
 name: Nyika Campbell
 slug: nyika-campbell
 role: Learner
-affiliation: University of COlorado Boulder
+affiliation: University of Colorado Boulder
 pronouns:
 github: http://github.com/nyikacampbell
 photo:
