@@ -56,12 +56,10 @@ not_in_nav: |
   orientation/markdown_basics.md
   people/README.md
   people/template.md
-  people/jane-doe.md
-  people/john-smith.md
-  people/ty-tuff.md
-  people/aakriti-joshi.md
-  people/jane-example.md
-  people/john-example.md
+  people/nyika-campbell.md
+  people/olivia_ross.md
+  people/emily-nagamoto.md
+  people/lauren-walker.md
 
 # Configuration
 theme:
