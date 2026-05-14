@@ -132,23 +132,10 @@ Methods/technologies we are testing:
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
 ### Plan for Jupyter notebook modules
-
 ![Story visual](assets/figures/notebook_logo.png)
 
 ### Flowchart of data processing  
-```mermaid
-flowchart TD
-    NB["notebook/\nJupyter Notebook"]
-
-    NB --> MT["module_tracking/\nmodules.csv"]
-
-    MT --> M1["module_example/"]
-
-    M1 --> F1a[".py\nharmonizer script"]
-    M1 --> F1b[".md\ndescription"]
-    M1 --> F1c[".png\ndiagram"]
-    M1 --> F1d[".md\nREADME"]
-```
+![Team photo](docs/assets/team/TeamPhoto.png)
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
