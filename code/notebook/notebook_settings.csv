@@ -1,0 +1,8 @@
+setting_name,default,crs,override_setting,note
+boundary_shp,(required),,,str | Path — Path to a shapefile (e.g. boundary.shp) containing the polygon to clip to
+year_start,(required),,,int — Starting NLCD year (e.g. 2011)
+year_end,None,,,int | None — Ending NLCD year. If None uses the latest available year (2024)
+output_tiff,nlcd_raster_stack.tif,,,str | Path — Local path where the multi-band GeoTIFF will be saved
+resolution,None,,,float | None — Target pixel resolution in target_crs units. None → native (30m / ~0.000277°)
+target_crs,EPSG:4326,EPSG:4326,,str — Target CRS for the output raster
+verbose,True,,,bool — Print progress messages
