@@ -54,26 +54,25 @@ Full transparency, err on the side of over communication. Small decisions over S
 
 # Day 2
 
-## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
+## Our question 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
-Our working question:
 How can we leverage AI to more efficiently harmonize broad extent spatial datasets for use at the focal site scale?
 
-### Project Goals
+## Project Goals
 
-#### Short term
+### Short term
 - [ ] Make an agent.md file
 - [ ] Make a prompt log
 - [x] Make a data source list
 - [x] Pick 3 data sources to do tests on
 - [ ] Write an overall workflow for model selection/download
 
-#### Long term
+### Long term
 - GUI usable for land managers
 - Add feature that helps select data types depending on the project goals/scale/extent etc.
 - Make a light enough model to run locally to support data privacy and sovereignty
 
-### Project Phases
+## Project Phases
 - Get group members competent in coding with IDE agents and github
 - Start developing workflow for dataset pulling
 - Create UI that allows land managers to do this
