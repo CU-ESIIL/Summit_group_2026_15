@@ -1,0 +1,3 @@
+module_name,module_folder_location,module_data,notes
+example,code/module_example,,
+nlcd_osm,code/module_nlcd_osm,,
