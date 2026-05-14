@@ -113,6 +113,7 @@ extra_javascript:
   - javascripts/mode-toggle.js
   - javascripts/presentation-mode.js
   - javascripts/report-out-gallery.js
+  - https://unpkg.com/mermaid@11/dist/mermaid.min.js
 
 hooks:
   - hooks.py
@@ -131,6 +132,11 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.snippets:
       base_path:
         - docs
