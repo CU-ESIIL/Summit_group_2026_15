@@ -101,13 +101,7 @@ Promising data sources:
 - **[MODIS Land Surface Temperature](https://lpdaac.usgs.gov/products/mod11a1v061/)** (1 km): MOD11A1 daily land surface temperature and emissivity
 - **[USGS Digital Elevation Model (DEM)](https://www.usgs.gov/programs/national-geospatial-program/national-map)**: National Elevation Dataset; write code with Elevation, then convert in R
 - National Land Cover Database
-- Open Street Map
-
-### Challenges identified
-
-- Learning how to navigate GitHub and CyVerse (for some of us!)
-- Deciding which LLMs to use, nice ones we have access to now or ones we are more likely to use in the future
-- Running LLMs locally   
+- Open Street Map   
 
 # Day 3
 
@@ -117,8 +111,7 @@ Promising data sources:
 
 *Team members and collaborators who contributed to this project.*
 
-
-## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
+## Our process 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
 ### Plan for Jupyter notebook modules
 ![Story visual](assets/figures/notebook_logo.png)
@@ -126,6 +119,12 @@ Promising data sources:
 ### Flowchart of data processing  
 ![Team photo](assets/team/TeamPhoto.png)
 
+## Challenges identified
+
+- Learning how to navigate GitHub and CyVerse (for some of us!)
+- Deciding which LLMs to use, nice ones we have access to now or ones we are more likely to use in the future
+- Running LLMs locally
+  
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
 ### Short term:
