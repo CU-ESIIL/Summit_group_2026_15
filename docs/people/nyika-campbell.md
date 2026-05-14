@@ -4,7 +4,7 @@ slug: nyika-campbell
 role: Learner
 affiliation: University of COlorado Boulder
 pronouns:
-github: url: http://github.com/nyikacampbell
+github: http://github.com/nyikacampbell
 photo:
 project_role: 
 summary: Jane works on turning early spatial analysis into compact visuals that help readers see what each metric supports.
