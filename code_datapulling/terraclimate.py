@@ -1,4 +1,10 @@
+# install libraries
+import planetary_computer
+import pystac_client
+import xarray as xr
+from pathlib import Path
 
+# function to download terra climate data 
 STAC_API_URL = "https://planetarycomputer.microsoft.com/api/stac/v1"
 
 def download_terraclimate(variable, year_start, year_end, output_path, bbox=None):
