@@ -49,6 +49,9 @@ public_mode_toggle: true
 
 Full transparency, err on the side of over communication. Small decisions over Slack; larger decisions require meeting as a group. Use gradients of agreement — if anyone "hates it," continue the conversation.
 
+## Initial Inspiration
+![Whiteboard Photo](docs/assets/team/outline_1.JPG) 
+
 # Day 2
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
@@ -121,7 +124,7 @@ Methods/technologies we are testing:
 
 ## Team Photo { #team-photo }
 
-![Team photo](assets/team/team_photo.jpg)
+![Team photo](docs/assets/team/team_1.JPG)
 
 *Team members and collaborators who contributed to this project.*
 
@@ -145,7 +148,7 @@ Headline 3 — implication for practice or policy
 
 ![Story visual](docs/assets/figures/notebook_logo.png)
 
-### 
+### Flowchart of data processing  
 ```mermaid
 flowchart TD
     NB["notebook/\nJupyter Notebook"]
