@@ -2,14 +2,14 @@
 name: Lauren Walker
 slug: lauren-walker
 role: Learner
-affiliation:
-pronouns:
-github:
-photo:
+affiliation: University of Oregon
+pronouns: she/her
+github: 7laurenw
+photo: 
 project_role:
-summary:
+summary: 
 interests:
-skills:
+skills: landscape modelling, forest ecology
 group_role:
-links:
+links: www.linkedin.com/in/lauren--walker 
 ---
